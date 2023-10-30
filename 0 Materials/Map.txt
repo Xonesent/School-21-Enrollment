@@ -1,0 +1,9 @@
+typical repository structure
+
+|
+|- 0 Materials - test tools
+|- 1 Ping Pong - first project implementation of interactive ping pong
+|- 2 Game of life - second project implementation of game of life
+|- 3 Polish notation - third project implementation of polish notation
+|-- README_ENG.MD - impressions and thoughts in English
+|-- README.md - impressions and thoughts
